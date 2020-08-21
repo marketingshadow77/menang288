@@ -53,7 +53,7 @@ a{
 	width: 100%;
 	padding: 0;
 	margin:0 auto;
-	padding-top: 17px;
+	padding-top: 18px;
 	height: 60px;
 }
 #wrapperhead #header .logo{
@@ -71,7 +71,7 @@ a{
 	width:300px;
 	float: right;
 	position: relative;
-	right: 0px;
+	right: -15px;
 	top:30px;
 }
 #wrapperhead #header #headerright .button1{
@@ -84,7 +84,7 @@ a{
 	-webkit-box-shadow: inset 0 1px 0 rgba(48, 38, 78, .15), 0 1px 1px rgba(0, 0, 0, .075);
 	box-shadow: inset 0 1px 0 rgba(48, 38, 78, .15), 0 1px 1px rgba(0, 0, 0, .075);
 	background-repeat: repeat-x;
-	border: 1px solid #ffffff;
+	border: 2px solid #ffffff;
 	color: #fff;
 	border-radius: 5px;
 	font-size:15px;
